@@ -1,0 +1,6 @@
+{
+  "name": "Nicene Creed Memorizer",
+  "description": "An interactive liturgical study and memorization app with flashcards, sequential recitation checks, terminology guides, and an AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
